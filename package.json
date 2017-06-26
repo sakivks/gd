@@ -1,0 +1,13 @@
+{
+  
+  "name": "gd",
+  "version": "0.1.0",
+  "description": "a group discussion app",
+  "main": "index.js",
+  "repository": "https://github.com/sakivks/gd.git",
+  "author": "Vikas <sakivksg@gmail.com>",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "react": "^15.6.1"
+  }
+}
